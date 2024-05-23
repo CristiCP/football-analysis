@@ -3,6 +3,7 @@
 ![PYTHON](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ##Introduction
+
 My main goal for this project is to utilize YOLO, one of the best AI object detection models available, to detect and track players, referees, and footballs in videos. Additionally, I aim to train the model to enhance its performance further.Additionally, I'm exploring the use of Kmeans for pixel segmentation and clustering to assign players to teams based on the colors of their t-shirts. By combining these techniques, I believe I can offer accurate tracking and team identification.
 
 ![Screenshot](output_videos/Screenshot.png)
